@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "蛾 feat. ハシシ",
+  "base_artist": "GADORO",
+  "createdAt": "2025-12-15T15:01:47.630739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蛾",
+      "artist": "陈升",
+      "has_synced": true,
+      "path": "select/01_蛾_陈升.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蛾",
+      "artist": "GADORO",
+      "has_synced": true,
+      "path": "select/02_蛾_GADORO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "陈升 - 蛾",
+      "artist": "wusunk.com",
+      "has_synced": true,
+      "path": "select/03_陈升_-_蛾_wusunk.com.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蛾 feat. ハシシ",
+      "artist": "GADORO",
+      "has_synced": false,
+      "path": "select/pl_01_蛾_feat._ハシシ_GADORO.txt"
+    }
+  ]
+}
